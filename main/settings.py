@@ -116,6 +116,7 @@ SIMPLE_JWT = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  
+    "https://sai-events-frontend.vercel.app",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
